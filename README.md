@@ -1,14 +1,14 @@
 
 ---
 
-## ⚙️ Constraints
+##  Constraints
 - 1 ≤ nums.length ≤ 10^4  
 - -10^4 ≤ nums[i] ≤ 10^4  
 - `nums` is strictly increasing  
 
 ---
 
-## 🚀 Approaches
+##  Approaches
 
 ### 1. Recursive Divide & Conquer
 - **Idea:** Pick the middle element of the array as the root.  
