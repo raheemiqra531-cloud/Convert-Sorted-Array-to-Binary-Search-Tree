@@ -56,8 +56,3 @@
 | Randomized Middle         | Produces varied valid BSTs          | Less predictable, adds randomness   |
 
 ---
-
-## ✅ Key Takeaways
-- Recursive divide & conquer is the **standard solution**.  
-- Iterative queue-based is useful when recursion depth is a concern.  
-- Randomized middle selection is a variation that generates different valid BSTs.  
